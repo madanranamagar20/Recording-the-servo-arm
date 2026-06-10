@@ -124,3 +124,4 @@ while True:
     last_reset = reset
 
     utime.sleep_ms(20)
+hello
